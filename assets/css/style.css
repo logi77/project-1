@@ -10,10 +10,7 @@
 .links-2{
 	width: 100%;
 	height: 400px;
-	background-color: yellow;
-	p{
-		text-align:center;
-	}
+	background-color: yellow;	
 }
 
 .links-2 p{
@@ -37,5 +34,7 @@
 
 .btn:hover{
 	transform: scale(1.2);
+	letter-spacing:3px;
+	color: white;
 }
 

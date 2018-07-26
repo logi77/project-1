@@ -11,7 +11,8 @@
         <div class="links">
         </div>
         <div class="links-2">
-        	<p>Aixó és la branca test</p>
+        	<p>Aixó és la branca text</p>
+        	<a href="#" class="btn">Canvi</a>
         	<a href="#" class="btn">Ver</a>
         </div>
         
