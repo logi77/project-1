@@ -12,6 +12,7 @@
         </div>
         <div class="links-2">
         	<p>Aixó és la branca test</p>
+        	<a href="#" class="btn">Ver</a>
         </div>
         
     </body>

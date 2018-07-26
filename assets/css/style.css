@@ -21,3 +21,21 @@
 	font-weight: bold;
 	padding-top: 40px;
 }
+
+.btn{
+	padding: 10px;
+	border-radius: 5px;
+	border: 1px solid #D4C31C;
+	background-color: #4299D4;
+	color: black;
+	margin: 10px 0;
+	display: inline-block;
+	transition: 0.3s;
+	text-decoration:none;
+	text-align:center;
+}
+
+.btn:hover{
+	transform: scale(1.2);
+}
+
