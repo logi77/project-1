@@ -8,8 +8,10 @@
     
     <body class="details">
     
-        <div class="links">
+        <div class="header">
+        	<h1>Projecta GitHub</h1>
         </div>
+        
         <div class="links-2">
         	<p>Aixó és la branca text</p>
         	<a href="#" class="btn">Canvi</a>
